@@ -9,4 +9,4 @@ The following tech stack has been used for making of this website :-
 
 HTML,CSS,JavaScript
 
-Link of Website: https://githubumang.github.io/Food-For-Life/
+Link of Website: https://proaman9696.github.io/food-for-life/
